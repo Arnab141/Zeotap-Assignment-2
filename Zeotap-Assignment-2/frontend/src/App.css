@@ -1,0 +1,38 @@
+.App {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+input {
+  display: block;
+  margin: 10px 0;
+  padding: 8px;
+  width: 200px;
+}
+
+button {
+  padding: 10px 15px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+h1 {
+  color: #333;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  cursor: pointer;
+}
+
+li:hover {
+  background-color: #f1f1f1;
+}
+
+h3 {
+  margin-top: 20px;
+}

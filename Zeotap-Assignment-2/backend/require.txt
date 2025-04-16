@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+clickhouse-driver
+pandas
+python-multipart
+pyjwt
